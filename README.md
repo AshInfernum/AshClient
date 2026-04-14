@@ -2,6 +2,8 @@
 
 Ash Client is a Meteor Client addon designed for base hunting on DonutSMP, minimizing human effort by automatically analyzing most things in an optimized way.
 
+Here is the Turkish Language Page -> https://github.com/AshInfernum/AshClient/blob/main/TR
+
 ---
 
 ## 🔍 Ash Chunk Finder
