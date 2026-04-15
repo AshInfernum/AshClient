@@ -1,4 +1,4 @@
-# Ash Client 🔥 | Peak of Anomaly Analysis
+# 🔥 Ash Client 🔥
 
 Ash Client is a Meteor Client addon designed for base hunting on DonutSMP, minimizing human effort by automatically analyzing most things in an optimized way.
 
